@@ -1,3 +1,4 @@
-Ceci est un test pour git !
+﻿Ceci est un test pour git !
 Cette ligne a été écrite depuis GitHub.
 Et celle ci depuis ma machine locale.
+Et puis encore une depuis ma machine locale
